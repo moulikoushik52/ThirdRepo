@@ -3,3 +3,6 @@ Lion
 Birds
 Humans
 Fishes
+Dogs
+Trees
+
