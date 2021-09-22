@@ -1,0 +1,24 @@
+Hiii
+This is koushik
+in the git repo
+wants to work here.
+ ............THE VIM COMMANDS .............
+if you want write :w enter
+if  you want go out :q enter
+if you want save the changes an then quit :wq 
+if u want to quit and unsave :q!
+if you want to insert and write something in command mode  :i
+To undo the changes =press u
+To redo the change =cntrl +r
+to delete one char =press X
+To delete only one line =press dd
+To set numbers in the line by line cmd prompt =set number
+To delete 7 lines = :set number press 7dd
+To delete only one word :dw
+to copy oneline =press yy 
+To paste =press p
+To move word by word =press e
+To replace letter =press rk   here k is the letter 
+
+
+ 
